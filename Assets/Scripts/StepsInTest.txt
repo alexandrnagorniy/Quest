@@ -1,0 +1,38 @@
+enter the StartRoom1 Center
+puckup item Inventory_0
+enter the StartRoom1
+enter the StartRoom1 Right
+play minigame in item
+puckup item Inventory_0 (1)
+enter the StartRoom1
+Enter the StartRoom1 Left
+use item Inventory_0 (1)
+enter basement1Start
+use Inventory_0 (light is activated)
+pickup item Inventory_3 (1)
+enter the basement1Right
+pickup item Inventory_3
+item Inventory_3 and item Inventory_3 (1) deleted from inventory (light scale move to x2)
+enter the basement1Start
+enter the basement1Left
+enter the basement1Left Box
+pickup item Inventory_5
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<
+move to menu scene<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+load game<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+//in inventory i have item Inventory_5, light scale = 2, position is true
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<
+enter the basement1Start
+use item Inventory_5
+enter the basement1Lobzik
+pickup item Inventory_6
+enter the basement1Left
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<
+move to menu scene<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+load game<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+//in inventory i have item Inventory_6, light scale = 2, position is true, box fabule is true in scene basement1Start
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<
+use inem Inventory_6 (light is non activated, i move to lobzik minigame)
+complete lobzik minigame (light is activaled(his scale = 2), i move to basement1Left)
+door in Room2Start is actevated
+enter the Room2Start
